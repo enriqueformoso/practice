@@ -12,9 +12,6 @@ EJEMPLO EJEMPLO
 
 EJEMPLO EJEMPLO
 
-EJEMPLO EJEMPLO
-
-EJEMPLO EJEMPLO
 
 EJEMPLO EJEMPLO
 
@@ -24,3 +21,8 @@ ou’ll need to be comfortable working as part of a distributed global
 team and communicating with technical and non-technical users. 
 This position may require some travel as well as after-hours or weekend coverage.
 
+
+In addition to providing expert-level support of our existing technologies, 
+you’ll also be tasked with providing technical services to our Netflix Studio teams, 
+which will include collaboration with our Technical Infrastructure Delivery, 
+Production Management, and Post Production teams in order to ensure that Netflix Titles are able to seamlessly complete their work.
