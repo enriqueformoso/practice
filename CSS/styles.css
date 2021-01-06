@@ -12,6 +12,17 @@ html {
     text-align: center;
 }*/
 
+#cabecera {
+    border: .5rem solid blue;
+    background-color: blueviolet;
+}
+
+#cabecera p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.7rem;
+    color: white;
+}
+
 #container {
     width: 70%;
     padding: 0;
